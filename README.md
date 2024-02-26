@@ -1,12 +1,17 @@
+### Olá, Meu nome é Felipe de Pietro, sou focado em Desenvolvimento FullStack.
 
+##
 
+- Atualmente aprimorando meu conhecimento meu conhecimento nas Linguagens/frameworks JavaScript(VueJS) e PHP(Laravel).
+
+- Trabalhei 6 meses como desenvolvedor front-end utilizando o framework VueJS e Vuetify.
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelp19&show_icons=true&theme=dark)
 
 ##
 
 
-### Linguagens que utilizo:
+### Linguagens/Frameworks que possuo experiência:
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
