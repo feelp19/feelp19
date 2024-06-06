@@ -2,7 +2,7 @@
 
 ##
 
-- Atualmente aprimorando meu conhecimento meu conhecimento nas Linguagens/frameworks JavaScript(VueJS) e PHP(Laravel).
+- Atualmente estou aprimorando meu conhecimento meu conhecimento nas Linguagens/frameworks JavaScript(VueJS) e Python(FastAPI, Django, Flask).
 
 - Trabalhei 6 meses como desenvolvedor front-end utilizando o framework VueJS e Vuetify.
 
@@ -17,7 +17,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/>
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
   
@@ -26,7 +25,7 @@
 
 ##
 
-  ### Meios de contato comigo:
+  ### Meios de contato:
  
 <div> 
   <a href = "mailto:flp.pietro95@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
