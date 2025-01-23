@@ -2,7 +2,7 @@
 
 ##
 
-- Atualmente estou aprimorando meu conhecimento meu conhecimento nas Linguagens/frameworks JavaScript(VueJS) e Python(FastAPI, Django, Flask).
+- Atualmente estou aprimorando meu conhecimento em PHP e Laravel.
 
 - Trabalhei 6 meses como desenvolvedor front-end utilizando o framework VueJS e Vuetify.
 
@@ -19,6 +19,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
 
   
 </div>
