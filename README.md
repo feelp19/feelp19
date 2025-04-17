@@ -2,9 +2,7 @@
 
 ##
 
-- Atualmente estou aprimorando meu conhecimento em PHP e Laravel.
-
-- Trabalhei 6 meses como desenvolvedor front-end utilizando o framework VueJS e Vuetify.
+- Trabalho como desenvolvedor fullstack utilizando Laravel e VueJs.
 
 ![Felipe's GitHub stats](https://github-readme-stats.vercel.app/api?username=feelp19&show_icons=true&theme=dark)
 
